@@ -1,0 +1,14 @@
+# Environment
+gen-env/
+venv/
+*.pyc
+__pycache__/
+
+# Secrets
+.env
+
+# Database (we'll exclude this for now, create fresh on cloud)
+storage/logs.db
+
+# OS files
+.DS_Store
