@@ -18,7 +18,7 @@ Enterprise AI governance platform with human-in-the-loop approval workflows.
 
 ## Live Demo
 
-[Link will be added after deployment]
+[(https://genai-decision-support-bla8davaljxebn8dpjkavt.streamlit.app/)]
 
 ## Local Setup
 ```bash
@@ -35,3 +35,4 @@ streamlit run app.py
 ## Author
 
 Shaktheish Pillay
+
